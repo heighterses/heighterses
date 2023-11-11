@@ -1,5 +1,3 @@
-[![MasterHead]([https://media.licdn.com/dms/image/D4D16AQFDT3MXh7BXfQ/profile-displaybackgroundimage-shrink_350_1400/0/1691401889670?e=1698278400&v=beta&t=E9dtCl8nh3hkS0XQnryDVZSMhxLvLrm0bsGzHw1i5Zs)]
-
 <h1 align="center">Hi 👋, I'm Abdullah Bin Aftab</h1>
 <h3 align="center">A Passionate Software Engineering Student from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustration_418302-2378.jpg">
