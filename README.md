@@ -10,11 +10,9 @@
 
 - 📝 I regularly post on [https://www.linkedin.com/in/abdullah-bin-aftab/](https://www.linkedin.com/in/abdullah-bin-aftab/)
 
-- 📫 How to reach me **heighter79@gmail.com**
+- 📫 How to reach me **binaftaba@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/heighterses](https://github.com/heighterses)
-
-- ⚡ Fun fact **I think I am Lazy**
+- ⚡ Fun fact **I am Lazy**
   
 - 🧑‍🏫 Microsoft | MSLA [https://mvp.microsoft.com/en-US/studentambassadors/profile/022f2744-1882-4732-a623-5c63a5527006](https://mvp.microsoft.com/en-US/studentambassadors/profile/022f2744-1882-4732-a623-5c63a5527006)
 
