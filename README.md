@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustration_418302-2378.jpg">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heighterses" alt="heighterses" /></a> </p>
 
 - 🔭 I’m currently working as a **Data Engineer**
 
