@@ -28,7 +28,7 @@
 <a href="https://twitter.com/heighterx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heighterx" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdullahbinaftab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdullahbinaftab" height="30" width="40" /></a>
 <a href="https://instagram.com/heighterses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heighterses" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@heighterses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@heighterses" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@heighterses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@heighterses" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/binaftaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="binaftaba" height="30" width="40" /></a>
 </p>
 
