@@ -6,15 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django and Flask in order to proficiently create web applications. My goal is to evolve into a dedicated software developer, crafting innovative solutions that contribute positively to the global landscape. Moreover, I have a strong affinity for back-end development, driven by a passion for optimizing and delivering swift, efficient solutions.**
+- 🌱 I’m currently immersed in **Azure cloud technologies, specializing in data engineering. My work involves designing and implementing data pipelines, setting up data warehouses, and optimizing data lakes. I focus on creating robust architectures that efficiently handle large-scale data processing and analytics. My goal is to leverage these skills to craft impactful solutions in cloud computing, ensuring data reliability and performance.**
 
 - 📝 I regularly post on [https://www.linkedin.com/in/abdullah-bin-aftab/](https://www.linkedin.com/in/abdullah-bin-aftab/)
 
 - 📫 How to reach me **binaftaba@gmail.com**
 
-- ⚡ Fun fact **I am Lazy**
-  
-- 🧑‍🏫 Microsoft | MSLA [https://mvp.microsoft.com/en-US/studentambassadors/profile/022f2744-1882-4732-a623-5c63a5527006](https://mvp.microsoft.com/en-US/studentambassadors/profile/022f2744-1882-4732-a623-5c63a5527006)
 
 
 
