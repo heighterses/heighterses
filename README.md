@@ -18,8 +18,7 @@
 
 - 📫 How to reach me **binaftaba@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1vNJ_0zT8sDX9e_0s0stWxMqxe_8nKhrq/view?usp=sharing](https://drive.google.com/file/d/1vNJ_0zT8sDX9e_0s0stWxMqxe_8nKhrq/view?usp=sharing](https://drive.google.com/file/d/1yExRQCc_TRLdQATLPC0PGIoW9ZsIl_tw/view?usp=drive_link))
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1yExRQCc_TRLdQATLPC0PGIoW9ZsIl_tw/view?usp=drive_link
 - ⚡ Fun fact **I hate Coffee sometimes...**
 
 <h3 align="left">Connect with me:</h3>
