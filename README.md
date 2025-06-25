@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Bin Aftab</h1>
-<h3 align="center">Software Engineering Student from Pakistan 🇵🇰</h3>
+<h3 align="center">Cloud Data Engineer at Decision Inc. Australia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustration_418302-2378.jpg">
 
@@ -27,6 +27,7 @@
 - **Microsoft Learn Student Ambassador - Beta MLSA**
 - **Postman Student Leader**
 
+---
 
 - 👯 I’m looking to collaborate on **Open Source Data Projects**
 
