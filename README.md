@@ -15,10 +15,10 @@
 ### 🎖️ Certifications:
   
 - **Microsoft Certified: DP-900**
-- **Databricks Lakehouse Fundamentals**
-- **Data Warehousing: Snowflake**
-- **Associate Data Engineer in SQL - DataCamp**
-- **Postman API Expert**
+- **Databricks Lakehouse Certified**
+- **Data Warehousing: Snowflake Certified**
+- **Associate Data Engineer in SQL - DataCamp Certified**
+- **Postman API Expert Certified**
 
 ---
 
