@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Bin Aftab</h1>
-<h3 align="center">Data Engineer at Waseela 🌱 🚜 🌾</h3>
+<h3 align="center">Data Engineer at Waseela 🚜 🌾 👨‍🌾</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustration_418302-2378.jpg">
 
