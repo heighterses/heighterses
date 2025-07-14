@@ -5,6 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustration_418302-2378.jpg">
 
+
 - 🌱 Immersed in **Data and AI technologies, specializing in data engineering. My work involves designing and implementing data pipelines, setting up data warehouses, and optimizing data lakes. I focus on creating robust architectures that efficiently handle large-scale data processing and analytics. My goal is to leverage these skills to craft impactful solutions in cloud computing, ensuring data reliability and performance.**
 
 ---
