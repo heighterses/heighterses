@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Bin Aftab</h1>
-<h3 align="center">Data Engineer at Waseela 🚜 🌾 👨‍🌾</h3>
+<h3 align="center">Data Engineer at Agri Tech Startup Working to Uplift the Rural Economy of Pakistan 🚜 🌾 👨‍🌾</h3>
 <h5 align="center">Working at an Agri Tech Startup to Uplift the Rural Economy of Pakistan</h5>
 
 ---
