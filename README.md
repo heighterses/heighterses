@@ -16,6 +16,7 @@
   
 - **Microsoft Certified: DP-900**
 - **AWS Certified Cloud Practitioner: CLF-C02**
+- **AWS Certified AI Practitioner | AIF-C01**
 - **Databricks Lakehouse Certified**
 - **Data Warehousing: Snowflake Certified**
 - **Associate Data Engineer in SQL - DataCamp Certified**
