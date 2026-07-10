@@ -27,6 +27,7 @@
 
 ### 👨🏻‍💻 Communitees I’ve Participated In:
 
+- **AWS Community Builder (Data)** 
 - **Regional Cloud Captain**, AWS Cloud Clubs
 - **Microsoft Learn Student Ambassador - Beta MLSA**
 - **Postman Student Leader**
