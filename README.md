@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Bin Aftab</h1>
-<h3 align="center">Data Engineer at 🍔🍟 Scandinavian Food Chain</h3>
+<h3 align="center">Lead Data Engineer at Digital Tent Studio</h3>
 <h5 align="center">A Data Engineer who builds pipelines, transforms messy data into usable insights, and ensures data systems remain reliable at scale</h5>
 
 ---
