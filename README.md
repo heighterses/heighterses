@@ -25,7 +25,6 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heighterses&show_icons=true&locale=en" alt="Overall Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heighterses&theme=default" alt="GitHub Streak" />
 <p align="center">
   <img src="https://ghchart.rshah.org/heighterses" alt="Contribution Graph" />
