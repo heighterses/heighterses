@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Bin Aftab</h1>
-<h3 align="center">Lead Data Engineer at Digital Tent Studio</h3>
-<h5 align="center">A Data Engineer who builds pipelines, transforms messy data into usable insights, and ensures data systems remain reliable at scale</h5>
+<h3 align="center">Product and Data Engineer</h3>
+<h5 align="center">Engineer who build systems, pipelines, transforms messy data into usable insights, and ensures data systems remain reliable at scale</h5>
 
 ---
 
@@ -23,6 +23,15 @@
 - **Associate Data Engineer in SQL - DataCamp Certified**
 - **Postman API Expert Certified**
 
+---
+<h3 align="left">My GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heighterses&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heighterses&theme=default" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/heighterses" alt="Contribution Graph" />
+</p>
 ---
 
 ### 👨🏻‍💻 Communitees I’ve Participated In:
