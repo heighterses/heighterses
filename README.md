@@ -27,10 +27,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heighterses&show_icons=true&locale=en" alt="Overall Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heighterses&theme=default" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heighterses&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 <p align="center">
   <img src="https://ghchart.rshah.org/heighterses" alt="Contribution Graph" />
 </p>
